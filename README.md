@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
-<h3 align="center">I am a passionate Software Developer from India. An Ex- SDE Intern at Amazon, looking for SDE/FE roles</h3>
+<h3 align="center">I am a passionate Software Developer from India. I am looking for SDE/FE roles</h3>
+
+- 💻 My Experience involves:
+  Working as an SDE Intern at Amazon and BadaBhalu
 
 - 🌱 I’m currently learning **React, NodeJs and designing scalable systems**
 
-- 📫 How to reach me **abhishekpandey229@gmail.com, https://www.linkedin.com/in/abhishek-pandey-890258194**, https://kakarot265.github.io/Portfolio-Website/
+- 📫 How to reach me **abpandey229@gmail.com, https://www.linkedin.com/in/abhishek-pandey-890258194**, https://kakarot265.github.io/Portfolio-Website/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
